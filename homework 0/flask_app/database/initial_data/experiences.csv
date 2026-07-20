@@ -1,7 +1,8 @@
 "experience_id","position_id","name","description","hyperlink","start_date","end_date"
-"1","1","CSE 477","Taught an introductory course on web application design.","https://www.youtube.com/@ghassemi",NULL,NULL
-"2","1","CSE 847","Taught a hands-on introduction to Natural Language Processing.","https://www.youtube.com/@ghassemi",NULL,NULL
-"3","2","Feature Imitating Networks","Developed a new kind of neural network that is better faster and stronger.","https://ghassemi.xyz","2020-01-01",NULL
-"4","3","BRAINWORKS","Developed a platform to organize the scientific literature as a knowledge graph.","https://github.com/deskool/brainworks-public","2020-01-01",NULL
-"5","3","BRIDGE2AI","Developed a $100M initiative to assist with AI research.","https://commonfund.nih.gov/bridge2ai","2020-01-01",NULL
-"6","1","CSE 491","Taught a hands-on introduction to AI Agents.",NULL,NULL,NULL
+"1","1","WordPress Development Projects","Developed and delivered high-quality WordPress websites for eCommerce, education, real estate, restaurants, blogs, landing pages, and service-based businesses. Specialized in WordPress customization, WooCommerce, Elementor Pro, PHP, HTML, CSS, SEO, and website performance optimization.",NULL,"2018-01-01",NULL
+"2","1","Upwork Freelancing Experience","Worked with international clients through Upwork and other platforms, analyzing requirements, providing technical solutions, and delivering responsive user-friendly websites. Maintained Top Rated freelancer status with positive client feedback.",NULL,"2018-01-01",NULL
+"3","2","Mathematics Teaching Experience","Taught mathematics and mental math skills through UNRWA schools, educational centers, online tutoring, and university teaching practicum at government schools.",NULL,NULL,NULL
+"4","2","Mental Math Education","Taught mental mathematics techniques to help students improve calculation skills, problem solving, and mathematical thinking.",NULL,NULL,NULL
+"5","4","Data Analysis Projects","Built data analysis projects using Python, Pandas, NumPy, SQL, Excel, Power BI, and Tableau for data cleaning, analysis, visualization, dashboards, and reporting.",NULL,"2026-01-01",NULL
+"6","3","WordPress Professional Training","Completed 200+ hours professional WordPress development training through UCAS Technology Incubator (UCASTI) - World Bank Project, including advanced themes, plugins, and freelancing skills.",NULL,"2021-01-01",NULL
+"7","4","Data Science and AI Training","Completed Intermediate Python and Data Science training, including programming, data analysis, and artificial intelligence fundamentals. Currently continuing practical training in data analysis.",NULL,"2026-01-01",NULL

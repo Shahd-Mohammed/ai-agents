@@ -1,5 +1,7 @@
 "position_id","inst_id","title","responsibilities","start_date","end_date"
-"1","1","Instructor","Teach classes; mostly NLP and Web design.","2019-01-01",NULL
-"2","1","Researcher","Perform research at interface of AI and healthcare.","2019-01-01",NULL
-"3","2","National Scholar","Helped the government plan the future of science","2021-01-01","2021-12-31"
-"4","3","Associate Director","Used data science to assess corporation and nations","2019-01-01","2020-01-01"
+"1","1","Bachelor Student - Mathematics","Studied mathematics including algebra, calculus, statistics, and mathematical analysis, developing strong analytical and problem solving skills.","2013-01-01","2017-01-01"
+"2","2","Bachelor Student - Data Science and Artificial Intelligence","Currently studying Data Science and Artificial Intelligence with focus on Python, data analysis, machine learning fundamentals, and computational methods.","2025-01-01",NULL
+"3","3","WordPress Developer Trainee","Completed 200+ hours professional WordPress development training including advanced themes, plugins, Elementor, WooCommerce, and freelancing skills.","2021-01-01","2021-12-31"
+"4","4","Data Analysis Trainee","Completed training in Python, data analysis, visualization, and artificial intelligence fundamentals.","2026-01-01",NULL
+"5","5","Mathematics Teacher","Teaching mathematics and mental math through UNRWA schools, educational centers, online tutoring, and university teaching practicum in government schools.","2015-01-01",NULL
+"6","1","Freelance WordPress Developer","Developing WordPress websites, WooCommerce stores, and custom solutions for international clients through Upwork and freelance platforms.","2018-01-01",NULL

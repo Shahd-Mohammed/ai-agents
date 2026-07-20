@@ -1,14 +1,4 @@
 {% extends 'layout.html' %}
-{#
-  home.html - the landing page of your AI agent portfolio.
-
-  This page extends layout.html, which provides the nav bar and footer.
-  Everything inside the block content / endblock tags is YOUR content.
-
-  NOTE: This is one of the two files you should customize for the homework.
-        Replace the placeholder text and image below with your own bio.
-        The other file to edit is flask_app/database/initial_data/*.csv
-#}
 
 {% block content %}
 
@@ -17,10 +7,7 @@
   <!-- Profile section -->
   <div class="profile-section">
 
-    <!--
-      Profile photo — replace headshot.png with your own image.
-      Put your image file in flask_app/static/images/ and update the filename below.
-    -->
+    <!-- Profile photo -->
     <img
       src="{{ url_for('static', filename='images/headshot.png') }}"
       alt="Profile photo"
@@ -29,20 +16,22 @@
 
     <div class="profile-text">
 
-      <!-- NOTE: Replace this with your own name -->
-      <h1>Mohammad M. Ghassemi</h1>
+      <h1>Shahd Mohammed Abd Al-Wahab</h1>
 
-      <!-- NOTE: Replace this with your own title or tagline -->
-      <p class="subtitle">Assistant Professor · Computer Science · Michigan State University</p>
+      <p class="subtitle">
+        WordPress Developer · Data Analyst · Data Science & AI Student
+      </p>
 
-      <!--
-        NOTE: Replace this paragraph with your own bio (2–4 sentences).
-        What do you study? What are you interested in? What's a fun fact about you?
-      -->
       <p>
-        I'm a researcher and educator working at the intersection of AI and healthcare.
-        My work focuses on building systems that help clinicians make better decisions
-        using machine learning and natural language processing.
+        I am a WordPress Developer and Data Analyst with a Bachelor's degree
+        in Mathematics. I specialize in building responsive WordPress websites,
+        WooCommerce solutions, and website optimization using WordPress,
+        Elementor Pro, PHP, HTML, and CSS.
+        <br><br>
+        I also have practical experience in data analysis using Python,
+        Pandas, NumPy, SQL, Excel, Power BI, and Tableau. I am currently
+        studying Data Science and Artificial Intelligence and exploring
+        AI technologies and intelligent systems.
       </p>
 
       <a href="/resume" class="btn">View My Resume →</a>
@@ -50,33 +39,36 @@
     </div>
   </div>
 
-  <!-- Course info section -->
+
   <div class="info-cards">
 
     <div class="card">
       <h3>What This App Is</h3>
       <p>
-        This is your AI Agent portfolio — a web application that uses a language model
-        to answer questions about your resume. By the end of the semester, you'll extend
-        it with more sophisticated agents.
+        This is my AI Agent portfolio — a web application that uses a language
+        model to answer questions about my resume. The application connects
+        my resume data with an AI assistant that can provide information about
+        my skills and experiences.
       </p>
     </div>
 
+
     <div class="card">
-      <h3>How to Customize</h3>
+      <h3>My Background</h3>
       <p>
-        Edit the CSV files in <code>flask_app/database/initial_data/</code> to add your
-        own resume data, then restart the app. Edit this file (<code>home.html</code>)
-        to update your bio and photo.
+        I have a strong background in mathematics, WordPress development,
+        and data analysis. I have worked on web development projects,
+        freelancing platforms, and data-related projects.
       </p>
     </div>
+
 
     <div class="card">
       <h3>Try the AI Chat</h3>
       <p>
-        Visit the <a href="/resume">Resume page</a> and ask the AI assistant a question
-        about the resume. The chat panel on the right reads your resume data directly
-        from the database before answering.
+        Visit the <a href="/resume">Resume page</a> and ask the AI assistant
+        questions about my education, experience, skills, and projects.
+        The chat assistant reads my resume data before answering.
       </p>
     </div>
 
